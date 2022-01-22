@@ -1,0 +1,33 @@
+.custom-black{
+    background-color: #2b2b2b !important;
+}
+
+.custom-blacktext{
+    color: #2b2b2b !important;
+}
+
+.textblue{
+    color: #59D7E7;
+}
+
+.bg-blue{
+    background-color: #59D7E7;
+}
+
+.linktext{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    /* font-size: 15px;
+    line-height: 18px; */
+}
+
+.buttontext{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    /* font-size: 15px;
+    line-height: 18px; */
+}
+
+
