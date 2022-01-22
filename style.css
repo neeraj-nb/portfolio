@@ -7,11 +7,11 @@
 }
 
 .textblue{
-    color: #59D7E7;
+    color: #59D7E7 !important;
 }
 
 .bg-blue{
-    background-color: #59D7E7;
+    background-color: #59D7E7 !important;
 }
 
 .linktext{
