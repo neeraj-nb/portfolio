@@ -1,0 +1,23 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "description": "My portfolio website\r This is my personal project to develop a portfolio website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAAneeraj/protfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAAneeraj/protfolio/issues"
+  },
+  "homepage": "https://github.com/SAAneeraj/protfolio#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
