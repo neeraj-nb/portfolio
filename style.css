@@ -1,3 +1,10 @@
+html {
+    font-family: sans-serif;
+    scroll-snap-type: mandatory;
+    scroll-snap-points-y: repeat(100vh);
+    scroll-snap-type: y mandatory;
+}
+
 .custom-black{
     background-color: #2b2b2b !important;
 }
@@ -18,7 +25,7 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 10px;
     
 }
 
@@ -26,7 +33,28 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 10px;
 }
 
+.navbar-brand{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p1{
+    font-family: Montserrat;
+    font-style: normal;
+}
+
+.p2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.p3{
+    font-family: Montserrat;
+    font-style: normal;
+}
 
