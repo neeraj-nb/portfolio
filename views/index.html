@@ -36,7 +36,7 @@
 
 
                     <li>
-                        <button type="button" class="btn btn-sm bg-blue buttontext ">RESUME</button>
+                        <button type="button" class="btn btn-sm bg-blue buttontext " id="resume">RESUME</button>
                     </li>
 
                 </ul>
@@ -94,7 +94,11 @@
 
 
 
-
+    <script type="text/javascript">
+        document.getElementById("resume").onclick = function () {
+            window.open("https://docs.google.com/document/d/1OLjBmVNKfJHyNV4t2SLxM8sYE3teSv31R25Upwl-ujA/edit?usp=sharing","_blank")
+        };
+    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
         integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
